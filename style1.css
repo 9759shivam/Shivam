@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(image4.jpg);
+  }
+  h1 {
+    font-size: 36px;
+  }
+  form {
+    width: 50%;
+    margin: 0 auto;
+  }
+  label {
+    font-weight: bold;
+  }
+  input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 12px;
+  }

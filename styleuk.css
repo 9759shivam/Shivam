@@ -1,0 +1,16 @@
+.container{
+    width: 60px;
+    height:23px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu ul{
+    display: flex;
+    gap: 34px;
+}
+.menu ul li{
+    list-style: none;
+}
